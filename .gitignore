@@ -1,0 +1,8 @@
+# Xcode
+DerivedData/
+*.xcuserdata/
+*.swp
+*.lock
+.DS_Store
+build/
+*.xcuserstate
